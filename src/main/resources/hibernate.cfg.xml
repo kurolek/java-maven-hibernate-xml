@@ -10,5 +10,6 @@
         <property name="show_sql">true</property>
         <property name="hbm2ddl.auto">update</property>
         <mapping resource="user.cfg.xml" />
+        <mapping resource="weapon.cfg.xml"/>
     </session-factory>
 </hibernate-configuration>
